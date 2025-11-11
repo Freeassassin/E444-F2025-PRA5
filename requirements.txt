@@ -2,5 +2,9 @@ Flask
 gunicorn
 scikit-learn
 numpy
-request
+requests
+boto3
+matplotlib
+pandas
+pytest
 boto3
